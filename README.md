@@ -1,2 +1,2 @@
 # IEEEfractionconverter
-A program to convert the fractional component of IEEE 754 format to binary. Written to make my homework easier.
+A crude program to convert a decimal number to IEEE 754 single-precision format in binary. Written to make my homework easier.
